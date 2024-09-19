@@ -1,0 +1,43 @@
+USE [Credit_Card_Finance_Analysis]
+GO
+
+INSERT INTO [dbo].[Credit_Card_Details]
+           ([Client_Num]
+           ,[Card_Category]
+           ,[Annual_Fees]
+           ,[Activation_30_Days]
+           ,[Customer_Acq_Cost]
+           ,[Week_Start_Date]
+           ,[Week_Num]
+           ,[Qtr]
+           ,[current_year]
+           ,[Credit_Limit]
+           ,[Total_Revolving_Bal]
+           ,[Total_Trans_Amt]
+           ,[Total_Trans_Vol]
+           ,[Avg_Utilization_Ratio]
+           ,[Use_Chip]
+           ,[Exp_Type]
+           ,[Interest_Earned]
+           ,[Delinquent_Acc])
+     VALUES
+           (<Client_Num, int,>
+           ,<Card_Category, varchar(50),>
+           ,<Annual_Fees, int,>
+           ,<Activation_30_Days, int,>
+           ,<Customer_Acq_Cost, int,>
+           ,<Week_Start_Date, date,>
+           ,<Week_Num, nvarchar(50),>
+           ,<Qtr, varchar(50),>
+           ,<current_year, int,>
+           ,<Credit_Limit, decimal(10,2),>
+           ,<Total_Revolving_Bal, int,>
+           ,<Total_Trans_Amt, int,>
+           ,<Total_Trans_Vol, int,>
+           ,<Avg_Utilization_Ratio, decimal(10,3),>
+           ,<Use_Chip, nvarchar(50),>
+           ,<Exp_Type, nvarchar(50),>
+           ,<Interest_Earned, decimal(10,3),>
+           ,<Delinquent_Acc, int,>)
+GO
+
