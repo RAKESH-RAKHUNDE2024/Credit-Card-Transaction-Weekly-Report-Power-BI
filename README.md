@@ -8,7 +8,21 @@ The "Credit Card Transaction Weekly Report" Project Aims To Deliver A Comprehens
 
 2. **Streamline Data Processing And Analysis**:- Implement Efficient Data Processing Techniques To Enhance The Analysis Of Credit Card Transactions And Customer Behavior. This Will Enable The Monitoring Of Key Performance Indicators (KPIS) And Trends Over Time, Improving Our Ability To Respond To Changing Market Conditions.
 
-3. **Share Actionable Insights**:- Analyze Dashboard Findings And Communicate Actionable Insights To Stakeholders, Supporting Informed Decision-making Processes. This Will Empower Management And Teams To Make Data-driven Decisions That Enhance Customer Engagement And Optimize Credit Card Offerings. 
+3. **Share Actionable Insights**:- Analyze Dashboard Findings And Communicate Actionable Insights To Stakeholders, Supporting Informed Decision-making Processes. This Will Empower Management And Teams To Make Data-driven Decisions That Enhance Customer Engagement And Optimize Credit Card Offerings.
+
+### Project Insights- Week 52 (24th Dec)
+Wow Change:- 
+- Revenue Decreased By -12.8% 
+- Total Transaction Amt & Count Increased By 18.08% & 14.26%
+- Customer Count Increased By 24.54% Overview Ytd:
+- Overall Revenue Is 55M
+- Total Interest Is 7.87M
+- Total Transaction Amount Is 45M
+- Female Customers Are Contributing More In Revenue 739.07M, Male 738.93M
+- Blue & Silver Credit Card Are Contributing To 93.51% Of Overall Transactions
+- TX, NY & CA Is Contributing To 73.24%
+- Overall Activation Rate Is 57.5%
+- Overall Delinquent Rate Is 6.07%
 
 Through This Project, We Aim To Foster A Culture Of Data-driven Decision-making, Ultimately Enhancing Our Financial Performance And Customer Satisfaction.
 
